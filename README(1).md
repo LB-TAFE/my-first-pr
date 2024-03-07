@@ -60,9 +60,9 @@ git remote -v
 
 5. Refresh the GitHub page for your repository. You should see this `README.md` file.
 
-### Why are pull requests called "Pull Requests"? (wrong answer)
+### Why are pull requests called "Pull Requests"? (corrected answer)
 
-Pull requests are named "Pull Requests" because you are requesting that a repository pull changes from a fork, usually owned by you.
+Pull requests are named "Pull Requests" because you are requesting that a repository _pull_ changes from a fork, usually owned by you. 
 
 <!--TODO: This answer is SO wrong, I think we need to fix it! -->
 
